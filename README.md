@@ -623,7 +623,7 @@ Any referral or affiliate links are clearly relevant to OSINT work, and all tool
 | [awesome-ai-apis](https://github.com/edwardtay/awesome-ai-apis) | AI APIs, tools, frameworks and platforms for building intelligent applications. |
 | [awesome-robotics](https://github.com/edwardtay/awesome-robotics) | Robotics frameworks, simulators and platforms. |
 | [awesome-web3-ai](https://github.com/edwardtay/awesome-web3-ai) | Web3 x AI tools, agent frameworks and protocols. |
-| [awesome-compute](https://github.com/edwardtay/awesome-compute) | GPU and compute platforms for training and inference. |
+| [awesome-ai-infrastructure](https://github.com/edwardtay/awesome-ai-infrastructure) | GPU and compute platforms for training and inference. |
 
 ## Contributing
 
