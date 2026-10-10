@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.webp" alt="Awesome Open-Source Intelligence: people search, domains, social media, geolocation, breach data and investigation frameworks" width="100%"></p>
+![Awesome Open-Source Intelligence: people search, domains, social media, geolocation, breach data and investigation frameworks](assets/banner.webp)
 
 # Awesome OSINT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
