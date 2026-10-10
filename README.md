@@ -618,6 +618,7 @@ Any referral or affiliate links are clearly relevant to OSINT work, and all tool
 
 | List | Description |
 |------|-------------|
+| [awesome-reverse-engineering](https://github.com/edwardtay/awesome-reverse-engineering) | Reverse engineering tools with safety flags and maintenance data: binaries, Android, firmware, smart contracts, MCP servers. |
 | [awesome-scrapers](https://github.com/edwardtay/awesome-scrapers) | Scrapers, crawlers and extraction tooling, the collection layer that feeds OSINT pipelines. |
 | [awesome-ai-apis](https://github.com/edwardtay/awesome-ai-apis) | AI APIs, tools, frameworks and platforms for building intelligent applications. |
 | [awesome-robotics](https://github.com/edwardtay/awesome-robotics) | Robotics frameworks, simulators and platforms. |
