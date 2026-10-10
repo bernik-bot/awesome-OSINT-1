@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.webp" alt="Awesome Open-Source Intelligence: people search, domains, social media, geolocation, breach data and investigation frameworks" width="100%"></p>
+
 # Awesome OSINT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Stars](https://img.shields.io/github/actions/workflow/status/edwardtay/awesome-OSINT/update-stars.yml?label=star%20updates)](https://github.com/edwardtay/awesome-OSINT/actions/workflows/update-stars.yml)
